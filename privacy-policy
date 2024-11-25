@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Vice Versa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+
+        header {
+            background: linear-gradient(135deg, #e0f7ff, #b3dffc);
+            color: #0056b3;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #007bff;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 10px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        section h2 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            color: #007bff;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 5px;
+        }
+
+        section p {
+            margin-bottom: 15px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #e0f7ff;
+            color: #0056b3;
+            margin-top: 20px;
+        }
+
+        footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy</h1>
+    </header>
+
+    <main class="container">
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>
+                Welcome to the privacy policy for Vice Versa. Your privacy is of utmost importance to us, 
+                and this page explains how we handle your information.
+            </p>
+        </section>
+
+        <section id="data-collection">
+            <h2>Data Collection</h2>
+            <p>
+                Vice Versa does not collect, store, or share any personal data. 
+                The extension operates entirely locally on your browser, ensuring full privacy for all users.
+            </p>
+        </section>
+
+        <section id="usage">
+            <h2>Usage</h2>
+            <p>
+                The extension processes selected text directly on your device. 
+                No data is transmitted to external servers or third parties.
+            </p>
+        </section>
+
+        <section id="changes">
+            <h2>Changes to This Policy</h2>
+            <p>
+                We may update this privacy policy from time to time. 
+                Any changes will be reflected on this page, and we encourage you to review it periodically.
+            </p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>
+                If you have any questions or concerns about this privacy policy, please contact us at 
+                <a href="mailto:rotemkanon.dev@gmail.com">rotemkanon.dev@gmail.com</a>.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Vice Versa. All rights reserved.</p>
+        <p><a href="https://tools-by-rotem.github.io/vice-versa/" target="_blank">Official Homepage</a></p>
+    </footer>
+</body>
+</html>
